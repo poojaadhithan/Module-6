@@ -43,8 +43,12 @@ for func in (obj_beans,obj_mango):
     func.type()
     func.color()
 ```
+
 ## Output
-<img width="1223" height="363" alt="image" src="https://github.com/user-attachments/assets/af1c2fd5-1a62-475e-be38-3c899da1a26f" />
+<img width="1149" height="355" alt="image" src="https://github.com/user-attachments/assets/5afc48ef-34a9-48b9-8744-31117c215637" />
+
+
 
 ## Result
 Thus,the program is executed successfully.
+
