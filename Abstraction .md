@@ -51,8 +51,12 @@ cir=Circle()
 print("Area of a rectangle:", rec.calculate_area()) 
 print("Area of a circle:", cir.calculate_area())
 ```
+
 ## Output
-<img width="744" height="216" alt="image" src="https://github.com/user-attachments/assets/da632589-00ad-435a-8c89-a7804c598f23" />
+<img width="738" height="210" alt="image" src="https://github.com/user-attachments/assets/9e6c63e0-c513-472e-aa3d-2ff84339e29d" />
+
+
 
 ## Result
 Thus, the program has been successfully executed.
+
