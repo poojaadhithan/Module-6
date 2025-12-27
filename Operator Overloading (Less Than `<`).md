@@ -38,8 +38,13 @@ if(ob1<ob2):
 else:
     print("ob2 is less than ob1")
 ```
+
 ## Output
-<img width="1134" height="290" alt="image" src="https://github.com/user-attachments/assets/813b518e-6677-48cc-bac0-099bdc6affcf" />
+<img width="1257" height="278" alt="image" src="https://github.com/user-attachments/assets/b7f6be96-3c7f-41a9-b135-9675a7139581" />
+
+
 
 ## Result
-Thus,the program is executed successfully.
+Thus,the program is executed successfully
+
+
