@@ -31,8 +31,12 @@ obj_hammerhead = Shark()
 obj_goldfish.type()
 obj_hammerhead.type()
 ```
+
 ## OUTPUT
-<img width="1051" height="367" alt="image" src="https://github.com/user-attachments/assets/a1e0d9e1-2eaa-4dc0-b3df-3432cda6293f" />
+<img width="1040" height="359" alt="image" src="https://github.com/user-attachments/assets/be7412fc-fd58-45df-a49b-f9e304d31976" />
+
+
 
 ## RESULT
 Thus,the program is executed successfully.
+
